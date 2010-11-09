@@ -1,0 +1,3 @@
+We're assuming you already have a HTC Vision kernel unpacked and compiled somewhere.
+Change Makefile accordingly.
+
